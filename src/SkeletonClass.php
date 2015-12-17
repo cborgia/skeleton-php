@@ -1,6 +1,6 @@
 <?php
 
-namespace League\Skeleton;
+namespace Oxwox\Skeleton;
 
 class SkeletonClass
 {
